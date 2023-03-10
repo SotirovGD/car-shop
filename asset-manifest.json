@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae6be0fd.css",
-    "main.js": "/static/js/main.7759c957.js",
-    "static/media/oldTimer.png": "/static/media/oldTimer.d6a4da0f9173a65488b2.png",
-    "static/media/chevrolet.png": "/static/media/chevrolet.9edb68047a34de342cbe.png",
-    "static/media/triumph.png": "/static/media/triumph.4a0663536ee08c9cf252.png",
-    "static/media/opel-manta.png": "/static/media/opel-manta.34336df55c4ae3944c03.png",
-    "static/media/opel-olympia.png": "/static/media/opel-olympia.5b895a901f73b9f1297d.png",
-    "static/media/m-benz.png": "/static/media/m-benz.7ab55a5a63b45cb1a575.png",
-    "static/media/mustang.png": "/static/media/mustang.6fe5786233303fb15a00.png",
-    "index.html": "/index.html",
-    "main.ae6be0fd.css.map": "/static/css/main.ae6be0fd.css.map",
-    "main.7759c957.js.map": "/static/js/main.7759c957.js.map"
+    "main.css": "/car-shop/static/css/main.ae6be0fd.css",
+    "main.js": "/car-shop/static/js/main.26cda753.js",
+    "static/media/oldTimer.png": "/car-shop/static/media/oldTimer.d6a4da0f9173a65488b2.png",
+    "static/media/chevrolet.png": "/car-shop/static/media/chevrolet.9edb68047a34de342cbe.png",
+    "static/media/triumph.png": "/car-shop/static/media/triumph.4a0663536ee08c9cf252.png",
+    "static/media/opel-manta.png": "/car-shop/static/media/opel-manta.34336df55c4ae3944c03.png",
+    "static/media/opel-olympia.png": "/car-shop/static/media/opel-olympia.5b895a901f73b9f1297d.png",
+    "static/media/m-benz.png": "/car-shop/static/media/m-benz.7ab55a5a63b45cb1a575.png",
+    "static/media/mustang.png": "/car-shop/static/media/mustang.6fe5786233303fb15a00.png",
+    "index.html": "/car-shop/index.html",
+    "main.ae6be0fd.css.map": "/car-shop/static/css/main.ae6be0fd.css.map",
+    "main.26cda753.js.map": "/car-shop/static/js/main.26cda753.js.map"
   },
   "entrypoints": [
     "static/css/main.ae6be0fd.css",
-    "static/js/main.7759c957.js"
+    "static/js/main.26cda753.js"
   ]
 }
